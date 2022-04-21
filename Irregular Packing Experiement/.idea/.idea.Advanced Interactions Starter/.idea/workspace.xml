@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7fccaa1-0f23-49d4-89a4-b9cd4a613c53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Meshs/FlowerBullet.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Meshs/FlowerGun.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbm/baked-baked_newTree_base_lambert2SG_groundSG-ground.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbm/baked-baked_newTree_base_lambert2SG_groundSG-ground.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/NVRExampleScene/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Textures/NVRExampleLetterSpinner.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Textures/off.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Example/Textures/on.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Meshs/NVREditorPlayer.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/_default/_default__1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/_default/_default__2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/_default/_default__3.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/_default/_default__4.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/_default/_default__5.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/_default/_default__6.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__3.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__4.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__5.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__6.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__3.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__4.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__5.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__6.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__3.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__4.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__5.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__6.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__3.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__4.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__5.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__6.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__3.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__4.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__5.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__6.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__3.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__4.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__5.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__6.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeft.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeftModel.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/TouchControllers/oculusTouchRight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/NewtonVR/Resources/TouchControllers/oculusTouchRightModel.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Battery.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/House.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan4.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan6.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan7.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan8.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/Scan9.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Models/duck.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Music/Chapter8 BGM.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scenes/Set1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Razeware/Scenes/Set1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/._Shared" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/._Shared.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/CSVManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/CSVManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/CountCollider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/CountCollider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Example.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Example.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/MeshVolume.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/MeshVolume.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/MyTools.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/MyTools.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/NonConvexMeshCollider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/NonConvexMeshCollider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/PopupWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/PopupWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Property.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Property.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/ReadMe.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/ResetScene.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/ResetScene.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/SetPivot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/SetPivot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Shared.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Shared/._FollowGameObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Shared/._FollowGameObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Shared/._RotatePlayAreaAroundPlayer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Shared/._RotatePlayAreaAroundPlayer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Shared/FollowGameObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Shared/FollowGameObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/ShowValueScript.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/ShowValueScript.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Sliders.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Sliders.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Timer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Scripts/Timer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Textures/Pre-Supplied/LowPolyTank.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Textures/Pre-Supplied/NewThreads.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Textures/Pre-Supplied/RobotRampage_Bot_Texture.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Textures/Pre-Supplied/Runestrife-Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Textures/Pre-Supplied/Shared.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Razeware/Textures/Pre-Supplied/VikingUV.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Report/IrregulaReport.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Report/IrregulaReport.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Brick.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Cube.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/GoalPosts.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/GroundObstacles.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/GroundRunway.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/GroundTrack.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/LaserBolt.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Loop.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/MiniRamps.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Pickup.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Pillar.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Platform.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Platforms.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/PrimaryJumpRamp.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/RampElevated.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Models/Ring.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/ChevronAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/FlyerAsteroidEmissive.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/FlyerPlayershipAlbedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/FlyerPlayershipEmission.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/FlyerPlayershipOcclusion.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUIButtonEmpty.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUIButtonReset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUIButtonRun.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUIButtonSwitchLeft.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUIButtonSwitchRight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUICameraCycle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUICameraCycleDown.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUIReticle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUITimescaleFull.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GUITimescaleSlow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/GridEmissive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchMauveAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchNavyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchNavyDarkAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchOrangeAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchPinkAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchTealAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchTurquoiseAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchWhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SampleScenes/Textures/SwatchYellowAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/BackgroundGreyGridSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/BackgroundNavyGridSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/CratePinkGridSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/PlatformWhiteSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Models/RollerBall.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallSpecularGloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurnSharp.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidStandTurn.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalk.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurnSharp.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedAlbedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedNormals.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Light.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Textures/ToonLit.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Spec.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Normal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Specular.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Fonts/Unipix.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleBokeh.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleCloudBlack.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleCloudWhite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleFireballSheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleFirecloud.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlameLickSheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlamesSheet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlare.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/Spark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/SplashesFineParticle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/ParticleSystems/Textures/SplashesLargeParticle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PickupPrototype01x01x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PillarPrototype01x02x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PillarPrototype02x08x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/StepsPrototype04x02x02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Models/WallPrototype08x08x01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/GridEmissive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchMauveAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchNavyDarkAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchOrangeAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchPinkDAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTealAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchTurquoiseAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchWhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Prototyping/Textures/SwatchYellowAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/FlightWind.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/JetEngine.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Audio/PropellerEngine.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftFuselage.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsJet.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Models/AircraftWingsPropeller.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftFuselageOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur01GreyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur01WhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur02GreyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur02WhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur03GreyAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftPropellerBlur03WhiteAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsJetNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsJetOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsPropellerNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Aircraft/Textures/AircraftWingsPropellerOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/AccelerationHigh.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/AccelerationLow.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/DecelerationHigh.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/DecelerationLow.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Audio/Skid.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Models/SkyCar.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/ParticleCloudWhite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkidTrailAlbedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarBodyOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarLightsGlowAlpha.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarWheelNormals.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Vehicles/Car/Textures/SkyCarWheelOcclusion.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_feet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_left_hand_question.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_right_hand_question.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Icons/vr_interaction_system_unknown_hand.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Hints/Textures/HintBackground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Models/Arrow.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Models/Balloon.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Models/Longbow.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowAir09.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFallGround07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowFireLoop01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowHit01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowHit02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowHit03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowHit04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowHit05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowHit06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowIgnite01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire09.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire10.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire11.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire12.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowLaunchFire13.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock09.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock10.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock11.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock12.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock13.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock14.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock15.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock16.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowNock17.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowRelease09.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/ArrowSpawn08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonBounce07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonInflate01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonPop01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonPop02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonPop03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonPop04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonPop05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonPop06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonPop07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonRubber01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonRubber02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/BalloonRubber03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack09.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack10.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack11.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack12.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack13.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack14.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack15.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBack16.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/LongbowPullBackclick_01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/TorchFireLoop01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/TorchFireLoop02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/TorchFireLoop03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Sounds/TorchFireLoop04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/ArcheryWeebleTarget.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowAlbedoTransparency.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowAmbientOcclusion.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowEmissive.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowGlint.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowMetallicSmoothness.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/ArrowNormal.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/BalloonColor.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/BalloonPop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/BalloonPopLine.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/Longbow.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Textures/TorchFire.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportDestination.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportDestinationInvalid.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportMarker.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportPlayAreaPieces.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportBadArea.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportGo.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportGoodArea.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportPointerLoop.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Sounds/TeleportPointerStart.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Textures/TeleportAreaPatternColor.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Textures/TeleportMarker.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Textures/arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Textures/background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Textures/logo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Textures/workshop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/NewtonVR/SteamVR/NVRSteamVRInputDevice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Utility/ForcedReset.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_Stats.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1incflo7BtzLBEsuLjNntHtwgGD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7fccaa1-0f23-49d4-89a4-b9cd4a613c53" name="Default Changelist" comment="" />
+      <created>1602546903518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602546903518</updated>
+      <workItem from="1602546919864" duration="5296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1602556278561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602556278561" />
+  </component>
+</project>

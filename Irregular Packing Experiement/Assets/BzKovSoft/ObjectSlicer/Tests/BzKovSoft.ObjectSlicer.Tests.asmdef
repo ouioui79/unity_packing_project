@@ -1,0 +1,16 @@
+{
+    "name": "BzKovSoft.ObjectSlicer.Tests",
+    "references": [
+        "BzKovSoft.ObjectSlicer"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7911cce5-f702-44c4-bf16-15eba89f1b2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Example/Meshs/NewtonAppleTree.fbm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Example/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Resources/CollisionSounds/_default.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Resources/CollisionSounds/surface - cardboard.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Resources/CollisionSounds/surface - carpet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Resources/CollisionSounds/surface - glass.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Resources/CollisionSounds/surface - metal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Resources/CollisionSounds/surface - plastic.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewtonVR/Resources/CollisionSounds/surface - wood.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleScenes/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/2D/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Characters/ThirdPersonCharacter/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Effects/GlassRefraction/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Effects/LightCookies/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Effects/LightFlares/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Effects/Projectors/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Effects/TessellationShaders/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Effects/TessellationShaders/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Effects/ToonShading/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/TerrainAssets/BillboardTextures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/TerrainAssets/SurfaceTextures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/Water (Basic)/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/Water (Basic)/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/Water/Water/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/Water/Water/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/Water/Water4/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Environment/Water/Water4/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/ParticleSystems/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Prototyping/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Prototyping/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Vehicles/Aircraft/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Vehicles/Aircraft/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Vehicles/Aircraft/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Vehicles/Car/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Vehicles/Car/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Assets/Vehicles/Car/Textures.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Standard Assets/Vehicles/Car/Scripts/CarAudio.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/Example/NVRExampleGun.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/MouseSlicer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BzKovSoft/ObjectSlicer/BzMeshData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../packing_opt_3d/3D Prototype/Assets/Scripts/CollidersCounter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Property.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRPhysicalController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Sliders.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteamVR/InteractionSystem/Core/Scripts/ItemPackageSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteamVR/Editor/SteamVR_SkyboxEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRCanvasInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/Timer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../packing_opt_3d/3D Prototype/Assets/Scripts/ShowValueScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../packing_opt_3d/3D Prototype/Assets/Scripts/ObjectManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/SteamVR/NVRSteamVRInputDevice.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteamVR/InteractionSystem/Core/Scripts/InputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRInteractableItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRButtons.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteamVR/Scripts/SteamVR_Camera.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Standard Assets/Utility/TimedObjectActivator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../packing_opt_3d/3D Prototype/Assets/Scripts/ObjectImporter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plawius-NonConvexCollider/NonConvexColliderComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/PlaneSlicer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteamVR/Extras/SteamVR_Teleporter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRInteractable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRInputDevice.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/SelectionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteamVR/Extras/SteamVR_LaserPointer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/CollidersCounter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/ShowValueScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plawius-NonConvexCollider/Editor/NonConvexColliderUnityExt.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NewtonVR/NVRHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/SlidersManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SteamVR/InteractionSystem/Teleport/Scripts/SteamVRTeleport_NVR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/ObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scripts/CountCollider.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Scripts/Import.cs" />
+        <option value="$PROJECT_DIR$/SteamVR/InteractionSystem/Teleport/Scripts/SteamVRTeleport_NVR.cs" />
+        <option value="$PROJECT_DIR$/Scripts/ResetScene.cs" />
+        <option value="$PROJECT_DIR$/NewtonVR/NVRHand.cs" />
+        <option value="$PROJECT_DIR$/Scripts/SelectionManager.cs" />
+        <option value="$PROJECT_DIR$/Scripts/CountCollider.cs" />
+        <option value="$PROJECT_DIR$/Scripts/SlidersManager.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Sliders.cs" />
+        <option value="$PROJECT_DIR$/Scripts/CollidersCounter.cs" />
+        <option value="$PROJECT_DIR$/Scripts/PlaneSlicer.cs" />
+        <option value="$PROJECT_DIR$/Scripts/Property.cs" />
+        <option value="$PROJECT_DIR$/Scripts/ObjectManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ioI5SFLZU1XXCZ82qxprIJ05V9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7911cce5-f702-44c4-bf16-15eba89f1b2e" name="Default Changelist" comment="" />
+      <created>1602567334865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602567334865</updated>
+      <workItem from="1602567335975" duration="6791000" />
+      <workItem from="1603066362811" duration="20098000" />
+      <workItem from="1603265416025" duration="5551000" />
+      <workItem from="1603348793145" duration="11086000" />
+      <workItem from="1604288900536" duration="6986000" />
+      <workItem from="1604381321302" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="820" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604292967677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="820" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604292967677" />
+    <state x="2106" y="0" width="1519" height="1027" maximized="true" key="dock-window-1" timestamp="1604381631686">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="0" width="1519" height="1027" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604289864754" />
+    <state x="2558" y="119" width="731" height="801" key="find.popup" timestamp="1604381625207">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="119" width="731" height="801" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604293146445" />
+    <state x="2558" y="119" width="731" height="801" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604381625207" />
+    <state x="638" y="119" width="731" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603406373020" />
+  </component>
+</project>

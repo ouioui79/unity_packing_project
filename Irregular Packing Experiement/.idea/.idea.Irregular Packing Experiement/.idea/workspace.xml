@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c0d3eca-f9b2-415d-b3a2-f5b68e1c6b55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Irregular Packing Experiement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Irregular Packing Experiement/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Autonomous Packing/ObjectManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Autonomous Packing/SelectionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/ObjectManagerGA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Segmentation/SelectionManagerOrig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectManagerRay.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaneSlicer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_LaserPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_TrackedController.cs" />
+        <option value="$PROJECT_DIR$/../../VR-SimplePointer/Assets/_SimplePointer/Scripts/Pointers/PhysicsPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VRInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectManagerRay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PhysicsPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Import.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RhinoIntegrator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Property.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfigReporter.cs" />
+        <option value="$PROJECT_DIR$/Packages/manifest.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollidersCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Segmentation/SelectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Segmentation/SelectionManagerSeg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseSlicer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Autonomous Packing/BLFPacking.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Autonomous Packing/SelectionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Autonomous Packing/GAController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Segmentation/Scaler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Autonomous Packing/ObjectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Segmentation/SelectionManagerOrig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Segmentation/ObjManagerSeg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/ImportFromFiles.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/ObjectManagerGA.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGdokfaMu3Lb0unoVir3KHpIww" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c0d3eca-f9b2-415d-b3a2-f5b68e1c6b55" name="Default Changelist" comment="" />
+      <created>1603434543074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603434543074</updated>
+      <workItem from="1603434547157" duration="1414000" />
+      <workItem from="1603484171916" duration="1574000" />
+      <workItem from="1604381718899" duration="16979000" />
+      <workItem from="1606701188949" duration="1950000" />
+      <workItem from="1607462899793" duration="1240000" />
+      <workItem from="1612212747453" duration="14184000" />
+      <workItem from="1615236228466" duration="2119000" />
+      <workItem from="1615978805247" duration="7733000" />
+      <workItem from="1616624658535" duration="1838000" />
+      <workItem from="1617006638816" duration="1788000" />
+      <workItem from="1617046558640" duration="1055000" />
+      <workItem from="1617263068557" duration="333000" />
+      <workItem from="1617303076601" duration="7126000" />
+      <workItem from="1618256396653" duration="2047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="694" y="241" key="RollbackChangesDialog" timestamp="1612304851331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="241" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612304851331" />
+    <state x="687" y="321" width="718" height="534" key="find.popup" timestamp="1618258743314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="321" width="718" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618258743313" />
+  </component>
+</project>

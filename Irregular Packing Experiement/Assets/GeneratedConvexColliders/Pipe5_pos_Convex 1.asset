@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &-7668697257299288131
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Generated convex submesh 1
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 282
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 49
+    localAABB:
+      m_Center: {x: -0.12775342, y: 0.039669245, z: -0.30000573}
+      m_Extent: {x: 0.13588361, y: 0.038013473, z: 0.30494958}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 23000b00300004000d000f000000090010000b000500110002000800130005000b0013000f00010014000a000f0014000d000600150001000f0015000f000d00150013000100150008000200160002000e0016000e0008001600070002001700020013001700150006001700130015001700050013001900030011001a00180012001a0006000d001b000d0007001b00070017001b00170006001b00020007001c000d0004001c0004000e001c000e0002001c000a000b001d000f000a001d0004000c001f000e0004001f001f000c00200019000900210005001900210010000900220009001900220011000300230003001d0023001d000b00230012000900240024001e0025000c000400250004000f00250003001a0025001a00120025001d00030025000f001d0025001e000c0025001200240025000900120026001200180026002100090026001800210026000b000a00270001001300270013000b0027001400010027000a001400270000000800280008000e0028000e001f0028001f00200028002000000028000900000029000c0009002900000020002900110005002a00180011002a00050021002a00210018002a0009000c002b000c001e002b00240009002b001e0024002b00080000002c00000010002c00130008002c00190013002c00100022002c00220019002c00110018002d001a0011002d0018001a002d0020000c002e000c0029002e00290020002e0007000d002f001c0007002f000d001c002f000b0011003000110023003000
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 49
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 588
+    _typelessdata: e0a0f4bd7e8d913b1c0aa1be65ef74be2543943d67ad19bf604a42be1a120f3d5ade1abfadc642bd99053c3d8bd2083b9fad9f3bf8e45c3ca8b7f3bc803a86bee19df23c04d619bf6da648be4ce7893d664c1abf7e9fb63b50920d3dce3542bdba485bbe1a654e3c54dc1abf3e6c08be6106d93affde88be948523bd5d32893d8098773b6ffb86be1b064d3d58b319bfbc8db2bc05d2eb3b627ca5bc7a69433a79a2983d002079bc4cf8b1bd6421173cbe6493beb3f11ebc1e189f3db1cbe6bb5a5974be14a42f3c38bb19bf83c40dbeda6a093d1e6078be11b25ebd93abb13c50f50dbdda7d83be35ea803d43531abfcea4cdbcb4879c3d2946c8bab84052be9701913da08d1abffdf948be2ded923c39451abf64cc43be3ed1623dabbb1abf3a1f11bec5424e3ca6a089be0ef483be721cb23c5a3e1abff8d144bd13d0093d98df08bb7d832abb8d7a593d867b5cbd8334053cc114b43c2244fdbc93dd30bd939b6f3dccffa13b4e5405bd348b6c3cbd8644bc445cd1bb2af0303cb04b38bd5d7fd8bdf0c6753b981988bea38482becb10d13cafe414bff4fa7dbe1354683c2e001abfb2a60dbe4f59263d61ee7abec4bc3cbde373673c2f1f1abd17a821bd3e35b43c0836a9bbaa8c09beeb93b53ba50d85be238d56bd1834893d410cfebc566de6bd03459a3b4b8f9cbe2bb8f3bd4ab4033b0bf37ebecc1d23be40cff63c389a9bbe0e51ffbcc8bd2e3c00a9adbc0d8868beea023f3c0eca1abffda507bef183813c4ec476be913fdcbd5830493be87b7fbe086b623be8f36d3d4770b4bce1ec24bed83c183d2d389dbe
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: -0.12775342, y: 0.039669245, z: -0.30000573}
+    m_Extent: {x: 0.13588361, y: 0.038013473, z: 0.30494958}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b71ad40e238046238f9b0c6f33c3791, type: 3}
+  m_Name: Pipe5_pos_Convex 1
+  m_EditorClassIdentifier: 
+  ConvexMeshes:
+  - {fileID: -7668697257299288131}
+  HashOfSourceMeshes: 598db771318f623387e1942100000000
